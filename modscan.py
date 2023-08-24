@@ -7,7 +7,7 @@ File: modscan.py
 Desc: Modbus TCP Scanner
 Version: 2.0
 
-This file was modified by Bennett Tomlinson from the original created by
+This file was modified from the original created by
 Mark Bristow in 2008.
 
 This program is free software: you can redistribute it and/or modify
